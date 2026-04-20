@@ -30,30 +30,9 @@ LangChain, OpenAI APIs, RAG, Pinecone
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 WaBot — AI-Powered SaaS Automation Platform
-- Multi-tenant platform for communication & CRM workflows  
-- Event-driven architecture for high-scale messaging  
-- AI chatbot automation (~80% interaction automation)  
-
-👉 [Live Demo](https://app.wabot.shop)
-
----
-
-### 🔹 Jothishi AI — RAG-Based Intelligent Assistant
-- LLM-powered assistant with context-aware responses  
-- Vector search using Pinecone  
-- Optimized backend for low-latency performance  
-
-👉 [Live Demo](https://ai.jothishi.com)
-
----
-
 ## 📫 Connect With Me
-- 💼 LinkedIn: [Add your link]
-- 🌐 Portfolio: [Add your portfolio link]
-- 📧 Email: [your email]
+- 💼 LinkedIn: https://www.linkedin.com/in/abhijith-u-30a8ab286/
+- 📧 Email: abhicr506@gmail.com
 
 ---
 
